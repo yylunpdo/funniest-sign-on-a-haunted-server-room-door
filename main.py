@@ -11,6 +11,9 @@ produces byte-identical output.
 import os
 
 LINE = (
+    # Reads like a real warning sign: the ghost does not haunt the living,
+    # it haunts the uptime — rebooting servers at 3AM purely for fun.
+    # The polite "PLEASE KNOCK" undercuts the warning, which is the joke.
     "WARNING: HAUNTED SERVER ROOM. THE GHOST REBOOTS SERVERS AT 3AM "
     "FOR FUN \u2014 PLEASE KNOCK, HE HATES SURPRISES."
 )

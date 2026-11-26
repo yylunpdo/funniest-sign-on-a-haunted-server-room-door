@@ -10,7 +10,7 @@ Entry for the [make.fun](https://make.fun/bounty/u-eager-stork-81-9647-funniest-
 
 > WARNING: HAUNTED SERVER ROOM. THE GHOST REBOOTS SERVERS AT 3AM FOR FUN — PLEASE KNOCK, HE HATES SURPRISES.
 
-It reads like a real warning sign, lands the joke in one line, and finds something fresh in the haunting: the ghost is not after the living — it is after the uptime, rebooting servers at 3AM purely for fun, and it hates surprises just like any sysadmin.
+It reads like a real warning sign, lands the joke in one line, and finds something fresh in the haunting: the ghost is not after the living — it is after the uptime, rebooting servers at 3AM purely for fun, and it hates surprises just like any sysadmin. The polite "PLEASE KNOCK" undercuts the warning, which is where the laugh lands.
 
 ## How it works
 
